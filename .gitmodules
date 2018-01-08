@@ -1,0 +1,12 @@
+[submodule "client-state-manager"]
+	path = client-state-manager
+	url = git@github.com:denissys/client-state-manager.git
+[submodule "client-state-metrics"]
+	path = client-state-metrics
+	url = git@github.com:denissys/client-state-metrics.git
+[submodule "pos-emulator"]
+	path = pos-emulator
+	url = git@github.com:denissys/pos-emulator.git
+[submodule "schedule-api"]
+	path = schedule-api
+	url = git@github.com:denissys/schedule-api.git
