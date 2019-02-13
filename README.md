@@ -1,4 +1,4 @@
-# iFood Backend Test - Connection
+# iFood Backend - Connection
 
 Our goal is to be the best delivery company in the world. In order to achieve that we must do our best to manage the connection between iFood platform and all of our 100.000 restaurants.
 
